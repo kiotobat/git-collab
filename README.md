@@ -1,3 +1,1 @@
 # Collab
-
-Privet drujzya!
